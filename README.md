@@ -1,4 +1,5 @@
 # Lamp
 
 on/off
-colour
+
+colour change
