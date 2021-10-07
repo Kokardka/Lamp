@@ -1,0 +1,4 @@
+# Lamp
+
+on/off
+colour
